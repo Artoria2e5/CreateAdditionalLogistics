@@ -174,6 +174,7 @@
   "createadditionallogistics.config.regex.starHeight": "最大星号高度",
   "createadditionallogistics.config.trains.network-monitor.allow-inventory": "允许读取物品栏",
   "createadditionallogistics.config.trains.network-monitor.allow-writing": "允许写入",
+  "createadditionallogistics.config.trains.network-monitor.arrival-events": "到达事件",
   "createadditionallogistics.configuration.addresses": "地址",
   "createadditionallogistics.configuration.currencyConversion": "货币转换",
   "createadditionallogistics.configuration.kinetics": "动力学",
